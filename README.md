@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-2: Implementation of Exact Inference Method of Bayesian Network</H1>
 
-### Name: 
-### Register Number:
+### Name: chowla chaithanya
+### Register Number: 2305002004
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
@@ -70,13 +70,8 @@ result2 = inference.query(variables=[query_variable],evidence=evidence)
 print(result2)
 
 ```
-
----
-
 ## Output :
-
-
----
+<img width="1485" height="277" alt="{54768DA3-3234-4588-8836-8742A2742624}" src="https://github.com/user-attachments/assets/374a46b7-8924-45c6-bc24-4841dfc4bbfe" />
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
